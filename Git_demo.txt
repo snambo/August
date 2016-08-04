@@ -10,6 +10,8 @@ git add -> will add the file/the file is being staged.
 *master - indicates the master branch
 
 
+Adding third line
+
 
 
 
