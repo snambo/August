@@ -1,0 +1,23 @@
+GIT
+****
+1. Distributed system.
+2. Backup of local files
+3. Keep track of all the changes we are making to the particular file
+
+git init :- will create an initial repo.
+git status -s -> will show the untracked files (with ??)
+
+
+
+
+
+
+
+
+
+
+https://github.com
+SignUp
+gitlab.com = Most popular
+wosggitlab.com
+
