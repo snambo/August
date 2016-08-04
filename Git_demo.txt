@@ -6,6 +6,8 @@ GIT
 
 git init :- will create an initial repo.
 git status -s -> will show the untracked files (with ??)
+git add -> will add the file/the file is being staged.
+*master - indicates the master branch
 
 
 
